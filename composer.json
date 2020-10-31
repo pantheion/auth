@@ -1,0 +1,17 @@
+{
+    "name": "pantheion/auth",
+    "description": "authentiation and authorization",
+    "authors": [
+        {
+            "name": "Pedro Miguel",
+            "email": "pedro.aos19@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Pantheion\\Auth\\": ""
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
